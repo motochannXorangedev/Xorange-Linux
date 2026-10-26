@@ -7,10 +7,11 @@ so im just making a linux distro that was lightweight and user friendly, pls not
 * 700MiB of ram
 * 10GiB of storage
 
-
+# Desktop Preview
 
 ![Desktop Preview:](Great(1).png)
 
 
 [Get the iso Now, go to the latest release](https://github.com/motochannXorangedev/Xorange-Linux/releases)
+
 by motochann or Nyeinchankyaw(xorange repo)
