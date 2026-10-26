@@ -1,15 +1,8 @@
 # Xorange-Linux
-so im just making a linux distro that was lightweight and user friendly
- ___  ___  __<>_
- \  \/  / |     |
- /__/\__\ |_____|
-  XorangeLinux
-
-  ===========================================================
-  # 1.What is XorangeLinux?
-   =>Xorange linux is a smol and user friendly linux distro, for people who use windows 7 and want to switch to linux
-  # 2.What is the minimun spec?
-   =>A 1Ghz Cpu, 1GIB of ram and 10gb storage
-
-
-   Go to release and grab the iso
+so im just making a linux distro that was lightweight and user friendly, pls not flop thi
+# About the Distro
+**The distro called Xorange Linux was made on a i3 3217u processer, it was slow to make it but i made it**
+# The minimun requirement
+-1 ghz cpu with 1 core
+-700MiB of ram
+-10GiB of storage
