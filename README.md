@@ -14,4 +14,4 @@ so im just making a linux distro that was lightweight and user friendly, pls not
 
 [Get the iso Now, go to the latest release](https://github.com/motochannXorangedev/Xorange-Linux/releases)
 
-by motochann or Nyeinchankyaw(xorange repo)
+by motochann or Nyeinchankyaw(xorange repo) and Yan Myo Aung(Tester)
